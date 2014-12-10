@@ -4,7 +4,7 @@
 #include<cstring>
 #include<algorithm>
 #include<fstream>
-#inlcude<cmath>
+#inlcude<math.h>
 
 using namespace std;
 
